@@ -48,13 +48,12 @@ if (!isset($_SESSION["mikhmon"])) {
       <div class="card-body">
         <h3>MIKHMON V<?= $_SESSION['v']; ?></h3>
 <p>
-  Aplikasi ini dipersembahkan untuk pengusaha hotspot di manapun Anda berada.
-  Semoga makin sukses.
+  Development Dashboard - Pre Integration with existing Dev HTML
 </p>
 <p>
   <ul>
     <li>
-      Author : Laksamadi Guko
+      Author : JB
     </li>
     <li>
       Licence : <a href="https://github.com/laksa19/mikhmonv2/blob/master/LICENSE">GPLv2</a>
@@ -63,18 +62,18 @@ if (!isset($_SESSION["mikhmon"])) {
       API Class : <a href="https://github.com/BenMenking/routeros-api">routeros-api</a>
     </li>
     <li>
-      Website : <a href="https://laksa19.github.io">laksa19.github.io</a>
+      Website : <a href="https://briajer.github.io">briajer.github.io</a>
     </li>
     <li>
-      Facebook : <a href="https://fb.com/laksamadi">fb.com/laksamadi</a>
+      Facebook : <a href="https://fb.com/ultimateVR">fb.com/ultimateVR</a>
     </li>
   </ul>
 </p>
 <p>
-  Terima kasih untuk semua yang telah mendukung pengembangan MIKHMON.
+  Dashboard for testing and development 2021.
 </p>
 <div>
-    <i>Copyright &copy; <i> 2018 Laksamadi Guko</i></i>
+    <i>Copyright &copy; <i> 2021</i></i>
 </div>
 </div>
 </div>
