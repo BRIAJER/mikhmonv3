@@ -358,6 +358,8 @@ include('./info.php');
   </div>
   <!--about-->
   <a href="./?hotspot=about&session=<?= $session; ?>" class="menu <?= $sabout; ?>"><i class="fa fa-info-circle"></i> <?= $_about ?></a>
+  <!--about2-->
+  <a href="./?hotspot=about&session=<?= $session; ?>" class="menu <?= $sabout; ?>"><i class="fa fa-gear"></i> <?= $_about ?></a>
 
 </div>
 <script>
