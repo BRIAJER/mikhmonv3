@@ -221,7 +221,6 @@ if($idleto != "disable"){
   <a href="./admin.php?id=sessions" class="menu <?= $ssesslist; ?>"><i class="fa fa-gear"></i> <?= $_admin_settings ?></a>
   <a href="./admin.php?id=settings&router=new-<?= rand(1111,9999) ?>" class="menu <?= $snsettings ?>"><i class="fa fa-plus"></i> <?= $_add_router ?></a>
   <a href="./admin.php?id=about" class="menu <?= $sabout; ?>"><i class="fa fa-info-circle"></i> <?= $_about ?></a>
-  <a href="./admin.php?id=about" class="menu <?= $sabout; ?>"><i class="fa fa-gear"></i> <?= $_about ?></a>
 
 </div>
 
@@ -359,8 +358,6 @@ include('./info.php');
   </div>
   <!--about-->
   <a href="./?hotspot=about&session=<?= $session; ?>" class="menu <?= $sabout; ?>"><i class="fa fa-info-circle"></i> <?= $_about ?></a>
-  <!--about2-->
-  <a href="./?hotspot=about&session=<?= $session; ?>" class="menu <?= $sabout; ?>"><i class="fa fa-gear"></i> <?= $_about ?></a>
 
 </div>
 <script>
